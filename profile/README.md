@@ -37,6 +37,8 @@ becomes the base that the next person builds on.
 | [kriterion-cli](https://github.com/Kriterion-cc/kriterion-cli) | Participant CLI, API documentation, and the OpenAPI specification. |
 | [argomac-lean](https://github.com/Kriterion-cc/argomac-lean) | ArgoMAC construction, proofs, and tests. The starter for the BN254 scalar multiplication challenge. |
 
+All three repositories are licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+
 ## Submit an entry
 
 Install the CLI with Node.js 18 or newer:
